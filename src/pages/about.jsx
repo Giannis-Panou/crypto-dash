@@ -3,23 +3,20 @@ const AboutPage = () => {
 		<div className='about'>
 			<h1>About Crypto Dash</h1>
 			<p>
-				Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas ratione
-				officiis iusto sed sunt eum magni deserunt dolor laborum voluptatum
-				repudiandae quia, a, corrupti, enim blanditiis qui dolorum rerum
-				tempore.
+				Crypto Dash is a simple React application that displays live
+				cryptocurrency data using the CoinGecko API.
 			</p>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio eaque
-				perspiciatis incidunt alias harum. Ex culpa quibusdam nostrum non? Eos
-				eveniet iure aperiam animi quia. Rerum dignissimos minima impedit.
-				Molestias, aperiam amet. Hic consectetur totam itaque vel voluptates
-				tempore quas!
+				You can explore the top cryptocurrencies by market cap, filter by name
+				or symbol, and sort them by price, market cap, or 24-hour change.
 			</p>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum nulla
-				dignissimos necessitatibus enim delectus magni nobis magnam error
-				exercitationem soluta minus, excepturi, odio porro voluptatibus at
-				ducimus nemo quasi nihil.
+				This project is built as part of a React tutorial to help you understand
+				hooks, components, state management, and integrating with external APIs.
+			</p>
+			<p>
+				Future features might include detailed coin views, favorites,
+				pagination, and much more!
 			</p>
 		</div>
 	);
